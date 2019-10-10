@@ -1,0 +1,30 @@
+.special-card {
+  background-color: rgba(245, 245, 245, 1);
+  opacity: .4;
+}
+.jumbotron {
+    position: fixed;
+   background-color: rgba(245, 245, 245, 0.4);
+    opacity: 1;
+}
+.tittle{
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+.ti{
+  color: #154289;
+}
+.button{
+  color: #ffffff !important;
+  background-color: #154289;
+}
+.plan{
+  margin-top: 190px !important;
+}
+.pro{
+  text-align: left;
+  color: #ffffff !important;
+}
+.vehiculo{
+  text-align: left;
+  color: #ffffff !important;
+}
